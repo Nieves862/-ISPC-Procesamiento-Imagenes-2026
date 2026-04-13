@@ -10,7 +10,7 @@
 | Apellido y Nombre | E-mail | GitHub |
 |:---: |:---:|:---:|
 | VILLALBA, Valeria Nieves | vnvillalba@escuelasproa.edu.ar |[ver perfil](https://github.com/Nieves862) |
-| TESTA, Andrea P | |[ver perfil](https://github.com) |
+| TESTA, Andrea Paola | andreaptesta@gmail.com |[ver perfil](https://github.com/PaoTes)  |
 | GARCIA, Carlos | |[ver perfil](https://github.com) |
 | MORENO, Raúl | |[ver perfil](https://github.com) |
 | ALLENDE, Nicolás | |[ver perfil](https://github.com) |
