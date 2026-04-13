@@ -1,14 +1,14 @@
 ---------------------------------
-# -ISPC Procesamiento de IMÁGENES
+# -ISPC - Tec. Ciencias de DATOS e IA - Procesamiento de IMÁGENES
 
 ---------------------------------
-## -Grupo VisioNet
+## - Grupo //VisioNet//
 
 --------------------------------
-## -Somos:
+## - Somos:
 
 | Apellido y Nombre | E-mail | GitHub |
-| :---: | :---:|:---:|
+|:---: |:---:|:---:|
 | VILLALBA, Valeria Nieves | vnvillalba@escuelasproa.edu.ar |[ver perfil](https://github.com/Nieves862) |
 | TESTA, Andrea P | |[ver perfil](https://github.com) |
 | GARCIA, Carlos | |[ver perfil](https://github.com) |
