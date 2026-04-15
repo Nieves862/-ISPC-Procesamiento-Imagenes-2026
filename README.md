@@ -15,7 +15,7 @@
 | MORENO, Raúl | |[ver perfil](https://github.com) |
 | ALLENDE, Nicolás | nicoallende92@gmail.com |[ver perfil](https://github.com) |
 | GUARAZ, Emanuel | |[ver perfil](https://github.com) |
-| DIRENI, Carlos | |[ver perfil](https://github.com) |
+| DIRENI, Carlos | direnicarlos@gmail.com |[ver perfil](https://github.com) |
 
 
 
