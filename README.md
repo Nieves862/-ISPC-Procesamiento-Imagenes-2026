@@ -16,7 +16,7 @@ El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proy
 | **TESTA**, Andrea Paola | Data Engineer | [🔗 Perfil](https://github.com/PaoTes) |
 | **GARCIA**, Carlos | Computer Vision Researcher | [🔗 Perfil](https://github.com) |
 | **MORENO**, Raúl | Data Analyst | [🔗 Perfil](https://github.com) |
-| **ALLENDE**, Nicolás | Backend Developer | [🔗 Perfil](https://github.com) |
+| **ALLENDE**, Nicolás | Backend Developer | [🔗 Perfil](https://github.com/AllendeNicolas) |
 | **GUARAZ**, Emanuel | UX/UI Designer | [🔗 Perfil](https://github.com) |
 | **DIRENI**, Carlos | QA & Documentation | [🔗 Perfil](https://github.com/Cdireni) |
 
