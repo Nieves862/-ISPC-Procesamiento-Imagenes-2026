@@ -1,21 +1,48 @@
----------------------------------
-# -ISPC - Tec. Ciencias de DATOS e IA - Procesamiento de IMÁGENES
+# Procesamiento de Imágenes | Tecnicatura en Cs. de Datos e IA
 
----------------------------------
-## - Grupo //VisioNet//
+### 👤 Grupo: **VisioNet**
 
---------------------------------
-## - Somos:
+---
 
-| Apellido y Nombre | E-mail | GitHub |
-|:---: |:---:|:---:|
-| VILLALBA, Valeria Nieves | vnvillalba@escuelasproa.edu.ar |[ver perfil](https://github.com/Nieves862) |
-| TESTA, Andrea Paola | andreaptesta@gmail.com |[ver perfil](https://github.com/PaoTes)  |
-| GARCIA, Carlos | |[ver perfil](https://github.com) |
-| MORENO, Raúl | |[ver perfil](https://github.com) |
-| ALLENDE, Nicolás | nicoallende92@gmail.com |[ver perfil](https://github.com) |
-| GUARAZ, Emanuel | |[ver perfil](https://github.com) |
-| DIRENI, Carlos | direnicarlos@gmail.com |[ver perfil](https://github.com) |
+## 📝 Descripción del Proyecto
+Este repositorio contiene el desarrollo del módulo de **Procesamiento de Imágenes** 
+El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proyectos)** 
+---
+
+## 👥 Equipo de Investigación & Desarrollo
+| Apellido y Nombre | Rol / Especialidad | GitHub |
+|:--- |:--- |:---:|
+| **VILLALBA**, Valeria Nieves | Product Owner / Docente | [🔗 Perfil](https://github.com/Nieves862) |
+| **TESTA**, Andrea Paola | Data Engineer | [🔗 Perfil](https://github.com/PaoTes) |
+| **GARCIA**, Carlos | Computer Vision Researcher | [🔗 Perfil](https://github.com) |
+| **MORENO**, Raúl | Data Analyst | [🔗 Perfil](https://github.com) |
+| **ALLENDE**, Nicolás | Backend Developer | [🔗 Perfil](https://github.com) |
+| **GUARAZ**, Emanuel | UX/UI Designer | [🔗 Perfil](https://github.com) |
+| **DIRENI**, Carlos | QA & Documentation | [🔗 Perfil](https://github.com) |
+
+---
+
+## 🛠️ Stack Tecnológico
+* **Lenguaje:** Python 3.12+
+* **Bibliotecas Principales:** `OpenCV`, `NumPy`, `Matplotlib`, `MediaPipe`.
+* **Entorno:** Google Colab / VS Code.
+* **Gestión de Datos:** MySQL & Power BI.
+
+---
+
+## 📂 Estructura del Repositorio
+* `/notebooks`: Experimentos y pruebas de Kernels (filtros de suavizado, realce, etc.).
+* `/src`: Código fuente de los módulos de procesamiento.
+* `/dataset`: Imágenes y recursos utilizados para el entrenamiento y validación.
+* `/docs`: Documentación técnica y modelo ABP.
+
+---
+
+## 📈 Estado del Proyecto: **Discovery Phase**
+Actualmente, el equipo se encuentra validando los *Pain Points* de la comunidad mediante herramientas de *Product Discovery* para definir la aplicación final de la visión artificial en la estación meteorológica.
+
+---
+© 2026 **ISPC** - Instituto Superior Politécnico Córdoba.
 
 
 
