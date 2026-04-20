@@ -18,7 +18,7 @@ El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proy
 | **MORENO**, Raúl | Data Analyst | [🔗 Perfil](https://github.com) |
 | **ALLENDE**, Nicolás | Backend Developer | [🔗 Perfil](https://github.com) |
 | **GUARAZ**, Emanuel | UX/UI Designer | [🔗 Perfil](https://github.com) |
-| **DIRENI**, Carlos | QA & Documentation | [🔗 Perfil](https://github.com) |
+| **DIRENI**, Carlos | QA & Documentation | [🔗 Perfil](https://github.com/Cdireni) |
 
 ---
 
