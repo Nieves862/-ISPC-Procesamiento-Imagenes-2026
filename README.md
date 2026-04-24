@@ -38,7 +38,7 @@ El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proy
 
 ---
 
-## Link al dataset utilizado
+## 💾 Link al dataset utilizado
 * https://www.kaggle.com/datasets/mmichelli/cirrus-cumulus-stratus-nimbus-ccsn-database?resource=download
 
 ---
