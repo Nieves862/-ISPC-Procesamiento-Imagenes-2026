@@ -38,6 +38,11 @@ El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proy
 
 ---
 
+## Link al dataset utilizado
+* https://www.kaggle.com/datasets/mmichelli/cirrus-cumulus-stratus-nimbus-ccsn-database?resource=download
+
+---
+
 ## 📈 Estado del Proyecto: **Discovery Phase**
 Actualmente, el equipo se encuentra validando los *Pain Points* de la comunidad mediante herramientas de *Product Discovery* para definir la aplicación final de la visión artificial en la estación meteorológica.
 
