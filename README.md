@@ -1,12 +1,27 @@
 # Procesamiento de Imágenes | Tecnicatura en Cs. de Datos e IA
+> **Proyecto Integrador:** Estación Meteorológica 4.0 con IA - Módulo de Visión Artificial
 
-### 👤 Grupo: **VisioNet**
+![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
+![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)
+![Estado](https://img.shields.io/badge/Etapa-Discovery_/_Evidencia_II-orange.svg)
+
+## 👤 Grupo: **VisioNet**
 
 ---
 
 ## 📝 Descripción del Proyecto
-Este repositorio contiene el desarrollo del módulo de **Procesamiento de Imágenes** 
-El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proyectos)** 
+Este repositorio forma parte del proyecto institucional **"Eco-Intelligence"**. Nuestra misión es integrar técnicas de **Procesamiento Digital de Imágenes** para automatizar la clasificación de nubes y fenómenos atmosféricos, complementando los sensores físicos de la Estación Meteorológica 4.0.
+
+Implementamos metodologías de **ABP (Aprendizaje Basado en Proyectos)** para transformar datos visuales en conocimiento accionable para la comunidad de la Escuela PRoA Río Tercero.
+
+---
+
+## ☁️ Dataset: CCSN Database
+Utilizamos la base de datos **Cirrus Cumulus Stratus Nimbus (CCSN)** para el entrenamiento de nuestros modelos.
+* **Clases:** 11 géneros de nubes (según la OMM).
+* **Propósito:** Clasificación morfológica para predicción de corto plazo.
+* **Enlace:** [Kaggle CCSN Database](https://www.kaggle.com/datasets/mmichelli/cirrus-cumulus-stratus-nimbus-ccsn-database)
+
 ---
 
 ## 👥 Equipo de Investigación & Desarrollo
@@ -23,31 +38,30 @@ El proyecto se desarrolla bajo la metodología **ABP (Aprendizaje Basado en Proy
 ---
 
 ## 🛠️ Stack Tecnológico
-* **Lenguaje:** Python 3.12+
-* **Bibliotecas Principales:** `OpenCV`, `NumPy`, `Matplotlib`, `MediaPipe`.
-* **Entorno:** Google Colab / VS Code.
-* **Gestión de Datos:** MySQL & Power BI.
+* **Core:** Python 3.12, NumPy, Matplotlib.
+* **Visión:** OpenCV (cv2), MediaPipe.
+* **Persistencia:** MySQL Workbench.
+* **Análisis:** Google Colab & Power BI.
 
 ---
 
 ## 📂 Estructura del Repositorio
-* `/notebooks`: Experimentos y pruebas de Kernels (filtros de suavizado, realce, etc.).
-* `/src`: Código fuente de los módulos de procesamiento.
-* `/dataset`: Imágenes y recursos utilizados para el entrenamiento y validación.
-* `/docs`: Documentación técnica y modelo ABP.
+```bash
+├── /notebooks       # Experimentos: Filtros, Kernels y Segmentación.
+├── /src             # Módulos de procesamiento (.py).
+├── /dataset         # Muestras de imágenes (CCSN).
+└── /docs            # Documentación ABP y Evidencias.
 
 ---
 
-## 💾 Link al dataset utilizado
-* https://www.kaggle.com/datasets/mmichelli/cirrus-cumulus-stratus-nimbus-ccsn-database?resource=download
+🚀 Cómo empezar?
+Si deseas replicar nuestras pruebas en local:
+Clona el repositorio: git clone https://github.com/Nieves862/-ISPC-Procesamiento-Imagenes-2026.git
+Instala las dependencias: pip install opencv-python numpy matplotlib
 
 ---
 
-## 📈 Estado del Proyecto: **Discovery Phase**
-Actualmente, el equipo se encuentra validando los *Pain Points* de la comunidad mediante herramientas de *Product Discovery* para definir la aplicación final de la visión artificial en la estación meteorológica.
-
----
-© 2026 **ISPC** - Instituto Superior Politécnico Córdoba.
+© 2026 ISPC - Instituto Superior Politécnico Córdoba.
 
 
 
